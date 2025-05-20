@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import searchIcon from '../../assets/Icons/searchIcon.svg';
-import userIcon from '../../assets/Icons/userIcon.gif'
+import userIcon from '../../assets/Icons/profileIcon.svg'
 import wishList from '../../assets/Icons/wishlist.png'
 import cartIcon from '../../assets/Icons/cart.png'
 export default class Header extends Component {
